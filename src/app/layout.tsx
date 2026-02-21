@@ -15,9 +15,8 @@ const geistMono = Geist_Mono({
 })
 
 export const metadata: Metadata = {
-  title: 'NextJS Starter - 모던 웹 스타터킷',
-  description:
-    'Next.js 15, TypeScript, TailwindCSS, ShadcnUI로 구축된 프로덕션 준비가 완료된 웹 애플리케이션 스타터킷',
+  title: 'Workout Tracker - 운동 기록 대시보드',
+  description: 'Notion 데이터베이스와 연동된 운동 기록 대시보드',
 }
 
 export default function RootLayout({
