@@ -41,3 +41,8 @@ npm run build       # 빌드 성공 확인
 ```
 
 💡 **상세 규칙은 위 개발 가이드 문서들을 참조하세요**
+
+## 📌 Project Context
+
+- PRD 문서: @docs/PRD.md
+- 개발 로드맵: @docs/ROADMAP.md
